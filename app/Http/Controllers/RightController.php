@@ -10,6 +10,7 @@ use Illuminate\Http\Request;
 
 class RightController extends Controller
 {
+    //123
     public function add($file_id, RightRequest $request)
     {
         // Найдем файл по его идентификатору
